@@ -1,1 +1,2 @@
-# Car_rent-_java
+# Simple Project on car rental system 
+
