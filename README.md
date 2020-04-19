@@ -14,3 +14,4 @@ Steps to be followed for runtime:
 
 GO TO localhost/phpmyadmin TO CREATE A DATABASE NAMING "Losrent" AND IMPORT THE SQL FILE TO RUN.
 WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+>> SQL file is inside the "Car rental system" folder.
